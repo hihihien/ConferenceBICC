@@ -22,20 +22,35 @@
         margin-left: 100px;
     }
   }
-.container-fluid {
-    /* margin-left: 20px; */
-}
 #intro {
     margin-left: 0px;
 }
 
 #intro-title {
-    margin-left: 0px;
     color: #4F6267;
 }
 
-#intro-undertitle {
-    margin-left: 0px;
+#intro-undertitle { 
+    font-style: italic;
+    color: #4F6267;
+}
+
+#info {
+    margin: 0px 20px 0px 20px;
+}
+#timeline {
+    color:#4F6267;
+    font-size: small;
+}
+#timeline-title {
+    color:#4F6267;
+    font-weight: 700 !important;
+}
+#footer {
+    margin: 0px 10px 0px 10px;
+}
+#QR-Code {
+    max-width: 70px;
 }
 
   
