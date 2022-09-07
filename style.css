@@ -1,0 +1,41 @@
+#header-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    position: relative;
+    background-size: 1003px 170px; /* The dimentions of your image */
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+.img-fluid {
+    margin-left: 100px;
+}
+  
+  @media only screen and (max-width: 1400px) {
+    .img-fluid {
+        margin-left: 50px;
+    }
+  }
+  
+  @media only screen and (max-width: 1200px) {
+    .img-fluid {
+        margin-left: 100px;
+    }
+  }
+.container-fluid {
+    /* margin-left: 20px; */
+}
+#intro {
+    margin-left: 0px;
+}
+
+#intro-title {
+    margin-left: 0px;
+    color: #4F6267;
+}
+
+#intro-undertitle {
+    margin-left: 0px;
+}
+
+  
