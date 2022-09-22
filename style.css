@@ -11,17 +11,17 @@
     margin-left: 100px;
 }
   
-  @media only screen and (max-width: 1400px) {
+@media only screen and (max-width: 1400px) {
     .img-fluid {
         margin-left: 50px;
     }
-  }
+}
   
-  @media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1200px) {
     .img-fluid {
         margin-left: 100px;
     }
-  }
+}
 #intro {
     margin-left: 0px;
 }
