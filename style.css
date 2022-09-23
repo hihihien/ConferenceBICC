@@ -61,7 +61,7 @@
     background-color: #E54919;
     color: white;
 }
-
-th {
-    width: fit-content;
+.name {
+    color: #4F6267;
+    font-weight: bold;
 }
